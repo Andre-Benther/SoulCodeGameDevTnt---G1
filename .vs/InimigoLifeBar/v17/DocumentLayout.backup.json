@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Documents\\CODIGO DA ALMA EXPLOSIVOS\\InimigoLifeBar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A568C6E-6841-5C44-6965-E667C02B6466}|Assembly-CSharp.csproj|c:\\users\\danie\\documents\\codigo da alma explosivos\\inimigolifebar\\assets\\basketball\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A568C6E-6841-5C44-6965-E667C02B6466}|Assembly-CSharp.csproj|solutionrelative:assets\\basketball\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A568C6E-6841-5C44-6965-E667C02B6466}|Assembly-CSharp.csproj|c:\\users\\danie\\documents\\codigo da alma explosivos\\inimigolifebar\\assets\\basketball\\scripts\\menunavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A568C6E-6841-5C44-6965-E667C02B6466}|Assembly-CSharp.csproj|solutionrelative:assets\\basketball\\scripts\\menunavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A568C6E-6841-5C44-6965-E667C02B6466}|Assembly-CSharp.csproj|C:\\Users\\danie\\Documents\\CODIGO DA ALMA EXPLOSIVOS\\InimigoLifeBar\\assets\\basketball\\scripts\\scoresound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A568C6E-6841-5C44-6965-E667C02B6466}|Assembly-CSharp.csproj|solutionrelative:assets\\basketball\\scripts\\scoresound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gameManager.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\CODIGO DA ALMA EXPLOSIVOS\\InimigoLifeBar\\Assets\\Basketball\\Scripts\\gameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Basketball\\Scripts\\gameManager.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\CODIGO DA ALMA EXPLOSIVOS\\InimigoLifeBar\\Assets\\Basketball\\Scripts\\gameManager.cs",
+              "RelativeToolTip": "Assets\\Basketball\\Scripts\\gameManager.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwD0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:49:11.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuNavigation.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\CODIGO DA ALMA EXPLOSIVOS\\InimigoLifeBar\\Assets\\Basketball\\Scripts\\MenuNavigation.cs",
+              "RelativeDocumentMoniker": "Assets\\Basketball\\Scripts\\MenuNavigation.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\CODIGO DA ALMA EXPLOSIVOS\\InimigoLifeBar\\Assets\\Basketball\\Scripts\\MenuNavigation.cs",
+              "RelativeToolTip": "Assets\\Basketball\\Scripts\\MenuNavigation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:28:31.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreSound.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\CODIGO DA ALMA EXPLOSIVOS\\InimigoLifeBar\\Assets\\Basketball\\Scripts\\ScoreSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Basketball\\Scripts\\ScoreSound.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\CODIGO DA ALMA EXPLOSIVOS\\InimigoLifeBar\\Assets\\Basketball\\Scripts\\ScoreSound.cs",
+              "RelativeToolTip": "Assets\\Basketball\\Scripts\\ScoreSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T03:10:31.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
